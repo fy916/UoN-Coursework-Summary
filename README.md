@@ -6,7 +6,7 @@
 
 Author: Feiyang Wang
 
-This is the summary list of my previous coursework done at the University of Nottingham. All solutions posted after submission deadline and receiving the grades.
+This is the summary list of my previous major coursework done at the University of Nottingham. All solutions posted after submission deadline and receiving the grades.
 
 
 
